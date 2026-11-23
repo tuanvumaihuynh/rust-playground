@@ -1,0 +1,9 @@
+[workspace]
+resolver = "3"
+members = [
+    "ch02-guessing-game",
+    "ch031-variables",
+    "ch032-data-types",
+    "ch033-functions",
+    "ch035-control-flow",
+]
